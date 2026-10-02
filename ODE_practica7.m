@@ -5,7 +5,7 @@ Kt = 0.01;
 Ke = 0.01;     
 b  = 0.0012;   
 J  = 0.001;     
-va = 12.0;      
+va = 5.0;      
 
 params = [Ra, La, Kt, Ke, b, J, va];
 
